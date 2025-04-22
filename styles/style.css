@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-  background-image: url(/assets/images/banner-bk.jpg);
+  background-image: url(../assets/images/banner-bk.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -324,7 +324,7 @@ body {
   }
 }
 .quinto {
-  background-image: url(/assets/images/contact-bk.jpg);
+  background-image: url(../assets/images/contact-bk.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
